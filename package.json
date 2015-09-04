@@ -1,6 +1,6 @@
 {
   "name": "readfile-split",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Read a file into an array",
   "homepage": "https://github.com/busterc/readfile-split",
   "repository": {
